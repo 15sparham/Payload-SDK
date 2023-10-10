@@ -35,12 +35,15 @@ extern "C" {
 /* Exported constants --------------------------------------------------------*/
 // ATTENTION: User must goto https://developer.dji.com/user/apps/#all to create your own dji sdk application, get dji sdk application
 // information then fill in the application information here.
-#define USER_APP_NAME               "your_app_name"
-#define USER_APP_ID                 "your_app_id"
-#define USER_APP_KEY                "your_app_key"
-#define USER_APP_LICENSE            "your_app_license"
-#define USER_DEVELOPER_ACCOUNT      "your_developer_account"
-#define USER_BAUD_RATE              "460800"
+#define USER_APP_NAME               "Jetson Nano"
+#define USER_APP_ID                 "1137974"
+#define USER_APP_KEY                "9f67ce1fa73c99e18a980b32854def3301432e73e9a793be43793d032af476f6"
+#define USER_APP_LICENSE            "A2CWariWiQtIBp4qfThLI|7Hr046W3I/hmnvbYIEiUJSZR05HhDmLR9Hzq+yVz/z1V2IHNfnC5Wta nefLOxWIwPr/ZP2/noOKNcbd37bQRBJIRBOguYW8hjyjnsBEM5iEzVDhxc9U4YZK5xYJRfLO5UDX
+VDIsoChT22hT/|S//giz+pEMj/QXYUJ/SS7TwrOKIZ9B2|CtHXCzsT8kB3ay+7Vf83|gNL9L9LCghy9NZ
++KrKNTBDYhUKW+hmzAKhCKFBikyB/rwkafLHFWhkwXsWVH4hQ4As2|gaflI7y5YLCmZHofQOSy
+TV02 bOSEfOCA\elof09ROPXa5w1X2W=="
+#define USER_DEVELOPER_ACCOUNT      "sparham@umich.edu"
+#define USER_BAUD_RATE              "1000000"
 
 /* Exported types ------------------------------------------------------------*/
 
